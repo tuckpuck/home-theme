@@ -272,21 +272,31 @@
   --rose-900: #881337;
 
   /* Custom Colors */
-  --green: #00ebc7;
-  --red: #ff5470;
-  --yellow: #fde24f;
+  --navy: #001f3f;
   --blue: #5b8bc9;
-  --black: #1b2d45;
-  --darkBlue: #00214d;
-  --grey: #bfbfbf;
-  --white: #fff;
+  --aqua: #7fdbff;
+  --teal: #39cccc;
+  --olive: #3d9970;
+  --green: #2ecc40;
+  --lime: #01ff70;
+  --yellow: #ffe229;
+  --orange: #ff851b;
+  --red: #ff5470;
+  --fuchsia: #f012be;
+  --purple: #b10dc9;
+  --maroon: #85144b;
+  --white: #ffffff;
+  --silver: #dddddd;
+  --grey: #aaaaaa;
+  --black: #111111;
+
   --lightGrey: #f2f4f6;
   --dark-mode-black-background: #0f1113;
   --dark-mode-white-background: #fafafa;
   --light-mode-black-background: var(--gray-800);
   --light-mode-white-background: #fafafa;
-  --header-background: var(--darkBlue);
-  --footer-background: var(--darkBlue);
+  --header-background: var(--navy);
+  --footer-background: var(--navy);
   --white-text: #fafafa;
   --black-text: #0f1113;
 
